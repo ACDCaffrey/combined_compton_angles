@@ -1,0 +1,5 @@
+The python code takes the multiple slice outputs from the Compton imaging app, stitches them together and combines different files based on the angle data was taken at.
+
+The R code is a high-pass filter for the output. I will document this better in the future.
+
+
